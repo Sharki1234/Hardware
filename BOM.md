@@ -14,11 +14,10 @@
 | --- | --- | --- | --- | --- | --- |
 | [ST7789 TFT](https://www.amazon.co.uk/Ksrnsne-ST7789-172x320-Interface-Connectors-As-Shown/dp/B07VQCVKWC?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3SJ5IVJQKLMGB) | Display | 1 | $8.97 | $8.97 | [Amazon(UK)](https://www.amazon.co.uk/Ksrnsne-ST7789-172x320-Interface-Connectors-As-Shown/dp/B07VQCVKWC?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3SJ5IVJQKLMGB) |
 | [Tactile Switches](https://www.switchelectronics.co.uk/products/6x6x4-3mm-momentary-pcb-tactile-switch?utm_source=chatgpt.com) | The Buttons | 4 | $1.06 | $4.24 | [Switch Electronics](https://www.switchelectronics.co.uk/products/6x6x4-3mm-momentary-pcb-tactile-switch?utm_source=chatgpt.com) |
-| [Slide Switch](https://www.ebay.co.uk/itm/287352725705) | ON and OFF | 1 | $5.54 | $5.54 | [EBAY(UK)](https://www.ebay.co.uk/itm/287352725705) |
 | [Raspberry Pi Pico](https://thepihut.com/products/raspberry-pi-pico?src=raspberrypi) | The Main Mircrocontroller | 1 | $5.02 | $5.02 | [PiHut](https://thepihut.com/products/raspberry-pi-pico?src=raspberrypi) |
 | [LiPo batter](https://overlander.co.uk/product/420mah-3-7v-1s-35c-lipo-battery/) | Power | 1 | $4.61 | $4.61 | [Overlander](https://overlander.co.uk/product/420mah-3-7v-1s-35c-lipo-battery/) |
-| **Parts subtotal** | — | — | — | **$28.38** | — |
+| **Parts subtotal** | — | — | — | **$22.84** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.38** | — |
+| **Total** | — | — | — | **$22.84** | — |
 
-$1.62 left of the tier's funding.
+$7.16 left of the tier's funding.
