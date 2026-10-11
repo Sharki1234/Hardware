@@ -1,0 +1,22 @@
+{
+  "version":1,
+  "author":"Caelum",
+  "editor":"Wokwi",
+  "parts": [
+    { "type": "board-pi-pico-2", "id": "pico", "top": 0, "left": 0, "attrs": {} },
+    { "type": "wokwi-tm1637", "id": "display", "top": -150, "left": -100, "attrs": { "color": "red" } },
+    { "type": "wokwi-max30102", "id": "oximeter", "top": -150, "left": 100, "attrs": {} }
+  ],
+  "connections":[
+    [ "pico:GND.1", "display:GND", "black", [ "v0" ] ],
+    [ "pico:VBUS", "display:VCC", "red", [ "v0" ] ],
+    ["pico:GP17","display:DIO","red",[ "v0" ] ],
+    ["pico:GP16","display:CLK","red",[ "v0" ] ],
+    
+    [ "pico:GND.2", "oximeter:GND", "black", [ "v0" ] ],
+    [ "pico:3V3", "oximeter:VIN", "red", [ "v0" ] ],
+    [ "pico:GP3", "oximeter:SCL", "red", [ "v0" ] ],
+    [ "pico:GP2", "oximeter:SDA", "red", [ "v0" ] ]
+  ]
+
+}
